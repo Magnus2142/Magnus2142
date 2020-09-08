@@ -13,3 +13,20 @@
 ### Connect with me:
 
 [<img align="left" alt="Magnus | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Magnus | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Magnus | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+
+
+
+
+
+
+
+
+
+
+
+
+[facebook]: https://www.facebook.com/magnus.bredeli.5/
+[instagram]: https://www.instagram.com/magnusbredeli/
+[linkedin]: https://www.linkedin.com/in/magnus-bredeli-38b14a1a0/
