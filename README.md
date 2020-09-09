@@ -1,6 +1,6 @@
 ### Hi there, I'm Magnus  👋
 
-##I'm a Computer Engineer Student as well as a developer on mye free time
+##I'm a Computer Engineer Student as well as a developer on my free time
 - 🔭 I’m currently working on ... Selfie Sat website to OrbitNTNU, studying computer engineering
 - 🌱 I’m currently learning ... C
 - 👯 I’m looking to collaborate on ... Whatever new projects!
