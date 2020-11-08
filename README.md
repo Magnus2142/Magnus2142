@@ -1,8 +1,8 @@
 ### Hi there, I'm Magnus  👋
 
 ##I'm a Computer Engineer Student as well as a developer on my free time
-- 🔭 I’m currently working on ... Selfie Sat website to OrbitNTNU, studying computer engineering
-- 🌱 I’m currently learning ... C
+- 🔭 I’m currently working on ... studying for exams
+- 🌱 I’m currently learning ... Machine learning
 - 👯 I’m looking to collaborate on ... Whatever new projects!
 - 🤔 I’m looking for help with ... Sending image from a website form to database/email
 - 💬 Ask me about ... Java or anything about Orbit NTNU
