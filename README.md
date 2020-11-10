@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ... studying for exams
 - 🌱 I’m currently learning ... Machine learning
 - 👯 I’m looking to collaborate on ... Whatever new projects!
-- 🤔 I’m looking for help with ... Sending image from a website form to database/email
+- 🤔 I’m looking for help with ... Finding a summerinternship 2021!
 - 💬 Ask me about ... Java or anything about Orbit NTNU
 - 😄 Pronouns: ... He/His
 
