@@ -1,11 +1,11 @@
 ### Hi there, I'm Magnus  👋
 
 ##I'm a Computer Engineer Student as well as a developer on my free time
-- 🔭 I’m currently working on ... studying for exams
-- 🌱 I’m currently learning ... Machine learning
+- 🔭 I’m currently working on ... gameplay engineering
+- 🌱 I’m currently learning ... C# and unity programming, python3
 - 👯 I’m looking to collaborate on ... Whatever new projects!
-- 🤔 I’m looking for help with ... Finding a summerinternship 2021!
-- 💬 Ask me about ... Java or anything about Orbit NTNU
+- 🤔 I’m looking for help with ... Finding a summerinternship 2022!
+- 💬 Ask me about ... Exhange life in Amsterdam
 - 😄 Pronouns: ... He/His
 
 ### Connect with me:
