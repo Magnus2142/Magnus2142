@@ -1,12 +1,10 @@
 ### Hi there, I'm Magnus  👋
 
 ##I'm a Computer Engineer Student as well as a developer on my free time
-- 🔭 I’m currently working on ... gameplay engineering
-- 🌱 I’m currently learning ... C# and unity programming, python3
+- 🔭 I’m currently working on ... CLI for communicating with Blackboard Learning Managment System
+- 🌱 I’m currently learning ... .NET
 - 👯 I’m looking to collaborate on ... Whatever new projects!
-- 🤔 I’m looking for help with ... Finding a summerinternship 2022!
-- 💬 Ask me about ... Exhange life in Amsterdam
-- 😄 Pronouns: ... He/His
+- 🤔 I’m looking for help with ... Finding ideas for smart APIs to develop
 
 ### Connect with me:
 
