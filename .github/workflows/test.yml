@@ -9,6 +9,14 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
+    - name: Check if triggered from a tag
+      run: |
+        if [[ "$GITHUB_REF" =~ refs/tags/* ]]; then
+          echo "Workflow triggered from a tag: $GITHUB_REF"
+        else
+          echo "Workflow not triggered from a tag, stopping workflow."
+          exit 1
+        fi
     - name: Check out code
       uses: actions/checkout@v3
     - name: Build, tag, and push image to Amazon ECR
