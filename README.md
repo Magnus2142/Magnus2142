@@ -33,6 +33,7 @@
 <br />
 <br />
 A feature!
+BREAKING CHANGE
 <br />
 
 ---
