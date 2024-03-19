@@ -6,10 +6,7 @@ jobs:
   create-release:
     name: "Build docker and publish to ECR"
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ./web
-
+    
     steps:
     - name: Check out code
       uses: actions/checkout@v3
