@@ -1,0 +1,25 @@
+name: Web production build and publish
+
+on: workflow_dispatch
+
+jobs:
+  create-release:
+    name: "Build docker and publish to ECR"
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./web
+
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v3
+
+    - name: Conventional Changelog Action
+      uses: TriPSs/conventional-changelog-action@v5
+      with:
+        github-token: ${{ secrets.github_token }}
+        skip-bump: 'true'
+    - name: Echo changelog
+      run: |
+        echo ${{ steps.changelog.output.clean_changelog }}
+    
