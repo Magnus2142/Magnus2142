@@ -11,12 +11,11 @@ jobs:
     steps:
     - name: Check if triggered from a tag
       run: |
-        if [[ "$GITHUB_REF" =~ refs/tags/* ]]; then
-          echo "Workflow triggered from a tag: $GITHUB_REF"
-        else
-          echo "Workflow not triggered from a tag, stopping workflow."
-          exit 1
+        if [ "${{ github.ref_type }}" = "branch" ]; then
+          echo"Workflow not triggered from a tag, stopping workflow. Triggering from a tag is necessary to give the docker image the right version, before publishing it to Amazon ECR."
+          exit 78
         fi
+      shell: bash
     - name: Check out code
       uses: actions/checkout@v3
     - name: Build, tag, and push image to Amazon ECR
